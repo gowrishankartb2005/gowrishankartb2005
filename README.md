@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 I’m currently working on: Machine Learning applications at FlyRank and an autonomous agricultural robot project.<br>👯 I’m looking to collaborate on: Applied ML pipelines, smart agritech solutions, and IoT-driven automation.<br>🤝 I’m looking for help with: Deploying ML models on edge devices and advanced motor control systems.<br>🌱 I’m currently learning: Deep learning frameworks, TinyML, and cloud IoT dashboard architectures
-
+🔭 I’m currently working on: Machine Learning applications at FlyRank and an autonomous agricultural robot project.<br>👯 I’m looking to collaborate on: Applied ML pipelines, smart agritech solutions, and IoT-driven automation.<br>🤝 I’m looking for help with: Deploying ML models on edge devices and advanced motor control systems.
 ## 📄 Resume
 [![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=googledocs&logoColor=white)](https://drive.google.com/file/d/1tvs99sYC8cHpB5yLgKm4ZzLeD4ZrLWd_/view?usp=drivesdk)
 
