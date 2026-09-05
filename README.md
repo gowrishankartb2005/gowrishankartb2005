@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # 💫 About Me:
 🔭 I’m currently working on: Machine Learning applications at FlyRank and an autonomous agricultural robot project.<br>👯 I’m looking to collaborate on: Applied ML pipelines, smart agritech solutions, and IoT-driven automation.<br>🤝 I’m looking for help with: Deploying ML models on edge devices and advanced motor control systems.
 ## 📄 Resume
-[![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=googledocs&logoColor=white)](https://drive.google.com/file/d/1tvs99sYC8cHpB5yLgKm4ZzLeD4ZrLWd_/view?usp=drivesdk)
+[![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=googledocs&logoColor=white)](https://drive.google.com/file/d/1K5SB8vWZVJJy7RccmC0ORgRSfQxWJipO/view?usp=drivesdk)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=gowrishankartb2005&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
