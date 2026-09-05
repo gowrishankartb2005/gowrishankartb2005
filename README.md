@@ -1,4 +1,4 @@
-## 👋 Hello, I'm Gowri Shankar <br>    ECE Student | Embedded Systems | IoT | Machine Learning
+## 👋 Hello, I'm Gowri Shankar <br> <p> ECE Student | Embedded Systems | IoT | Machine Learning<p>
 
 <!--
 **gowrishankartb2005/gowrishankartb2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
